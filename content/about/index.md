@@ -2,17 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - C++/VC++
+  - Java
+  - C#
+  - Unity
+  - Mobile Game Development
+  - Javascript
+  - HTML5, CSS3
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Rishon, a software engineer based in Bengaluru, India who enjoys building things that live on the internet.
+I have excellent problem solving skills with experience in building highly scalable apps/games.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently, I work at Zynga, building and engineering a popular Match 3 game Wonka's World of Candy.
 
 Here are a few technologies I've been working with recently:
