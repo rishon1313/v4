@@ -4,9 +4,9 @@ module.exports = {
     'Rishon Patani is a software engineer based in Bengaluru, India who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
     'Rishon, Patani, rishon1313, software engineer, back-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://rpatani.me',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-156524874-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Rishon Patani',
   location: 'Bengaluru, India',
