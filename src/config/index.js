@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Rishon Patani is a software engineer based in Bengaluru, India who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Rishon, Patani, rishon1313, software engineer, back-end engineer, web developer, javascript, northeastern',
+    'Rishon, Patani, rishon1313, software engineer, back-end engineer, web developer, javascript,',
   siteUrl: 'https://rpatani.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-156524874-1',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Bengaluru, India',
   email: 'rishon1313@gmail.com',
   github: 'https://github.com/rishon1313',
-  twitterHandle: '@rishon1313',
+  twitterHandle: '@RishonPatani',
   socialMedia: [
     {
       name: 'GitHub',
